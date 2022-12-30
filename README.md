@@ -22,6 +22,9 @@ Vagrant can be use to provision VMs with different configurations on virtual pla
 5. ssh into the powered on VM
     ``` shell
     vagrant ssh vmname
+6. once finish exit from vm and power down the vm
+    ``` shell
+    vagrant halt
 
 ### Important Vagrant commands
 
